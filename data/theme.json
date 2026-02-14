@@ -4,68 +4,68 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 140,
+          "green": 115,
+          "blue": 75,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#8C734B",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
+          "luminance": 0.18,
+          "luminancePercent": "18%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 4.67,
           "wcagRating": "AA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 105,
+          "green": 86,
+          "blue": 56,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#695638",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.1,
+          "luminancePercent": "10%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "contrastRatio": 7.03,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 42,
+          "green": 52,
+          "blue": 92,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#2A345C",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.04,
+          "luminancePercent": "4%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 12.04,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 42,
+          "green": 52,
+          "blue": 92,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#2A345C",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.04,
+          "luminancePercent": "4%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 12.04,
           "wcagRating": "AAA"
         }
       },
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 140,
+          "green": 115,
+          "blue": 75,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#8C734B",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "luminance": 0.18,
+          "luminancePercent": "18%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 4.67,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,76 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'Montserrat', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
         "font": "'Montserrat', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://frigoortho.com/wp-content/uploads/Frigo-Orthodontics-Logo.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://frigoortho.com/wp-content/uploads/Frigo-Orthodontics-Logo.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
+          "hex": "#8d744b",
+          "luminosity_percent": 19,
+          "count": 19
         },
         {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#8d744c",
+          "luminosity_percent": 19,
+          "count": 14
         },
         {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#8c734c",
+          "luminosity_percent": 18,
+          "count": 13
         },
         {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
+          "hex": "#8c744c",
+          "luminosity_percent": 19,
+          "count": 11
         },
         {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
+          "hex": "#8c734b",
+          "luminosity_percent": 18,
+          "count": 10
         },
         {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
+          "hex": "#8d734b",
+          "luminosity_percent": 18,
+          "count": 10
         },
         {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
+          "hex": "#8d734c",
+          "luminosity_percent": 18,
+          "count": 9
         },
         {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
+          "hex": "#91774e",
+          "luminosity_percent": 20,
+          "count": 5
         },
         {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#8d754c",
+          "luminosity_percent": 19,
+          "count": 5
         },
         {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#8e744c",
+          "luminosity_percent": 19,
+          "count": 4
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#8d744b",
+      "avg_luminosity": 18.6,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://frigoortho.com/wp-content/uploads/cropped-Frigo-favicon-32x32.png"
   }
 }
