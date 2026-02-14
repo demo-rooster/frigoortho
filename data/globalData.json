@@ -1,80 +1,59 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Frigo Orthodontics",
+  "domain": "frigoortho.com",
+  "email": "",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "",
+    "href": "",
+    "aria": ""
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Biloxi",
       "address": {
-        "street": "9650 Main Street",
+        "street": "1752 Medical Park Dr",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Biloxi, MS 39532",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-88.938991",
+          "latitude": "30.446878"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "",
+        "href": ""
       },
-      "email": "info@mandtortho.com",
-      "hours": [
-        {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
-        }
-      ],
-      "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "Get Directions"
-      },
-      "special_note": ""
-    },
-    {
-      "title": "Tonawanda Office",
-      "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
-        "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
-        }
-      },
-      "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
-      },
-      "email": "info@mandtortho.com",
+      "email": "",
       "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=1752+Medical+Park+Dr+Biloxi+MS+39532",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Complimentary shuttle service, veteran benefits program, and lifetime retainer support. Contact the office or visit the Contact page for details."
+    },
+    {
+      "title": "Gulfport",
+      "address": {
+        "street": "545 16th St",
+        "suite": "",
+        "city_state": "Gulfport, MS 39507",
+        "coordinates": {
+          "longitude": "-89.040547",
+          "latitude": "30.380746"
+        }
+      },
+      "phone": {
+        "number": "",
+        "href": ""
+      },
+      "email": "",
+      "hours": [],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=545+16th+St+Gulfport+MS+39507",
+        "label": "Get Directions"
+      },
+      "special_note": "Complimentary shuttle service, veteran benefits program, and lifetime retainer support. Contact the office or visit the Contact page for details."
     }
   ],
   "typography": [
@@ -92,22 +71,7 @@
     "type": "links",
     "theme": "dark",
     "content_alignment": "right",
-    "links": [
-      {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
-        "new_window": true
-      },
-      {
-        "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
-        "new_window": false
-      }
-    ],
+    "links": [],
     "announcement": {
       "icon": "tooth-two-v2",
       "label": "",
@@ -132,7 +96,7 @@
           "path": "/contact",
           "hash": "#form",
           "external": false,
-          "include_icon": true,
+          "include_icon": false,
           "icon": "tooth-two-v2",
           "color": "primary"
         }
@@ -150,7 +114,7 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.youtube.com/channel/UC3KFySf9scpJcBrHkXc48FQ?embeds_referring_euri=https%3A%2F%2Ffrigoortho.com%2F",
         "icon": "youtube"
       }
     ],
